@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Akshat Vyas! 👋
 
-<!--
-**THE-AAV/THE-AAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated student pursuing a Bachelor's degree in Engineering with a focus on Artificial Intelligence and Data Science (B.E. AI&DS) in India. I'm passionate about leveraging data-driven techniques to solve real-world problems. My journey in the tech world has been fueled by curiosity and a constant drive to learn and improve. I specialize in Python programming, data analysis, and machine learning.
 
-Here are some ideas to get you started:
+## 🌟 Skills
+- **Programming Languages:** Python, R
+- **Machine Learning:** scikit-learn, TensorFlow, Keras
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Deep Learning:** Neural Networks, CNN, RNN
+- **Tools:** Jupyter Notebook, Git, Docker, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[Sentiment Analysis](https://github.com/THE-AAV/Sentiment_Analysis):** A sentiment analysis project using NLP techniques and Python.
+- **[Virtual Mouse](https://github.com/THE-AAV/Virtual_Mouse):** A project that uses hand gestures and finger recognition to control a virtual mouse using Python and OpenCV
+
+
+## 📊 GitHub Stats
+![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THE-AAV&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THE-AAV&layout=compact&theme=radical)
+
+## 🔗 Connect with Me
+- [Website](https://akshat-vyas.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/akshat-vyas/)
+- [Twitter](https://twitter.com/akshat_vyas)
+- [Email](mailto:akshat.vyas@example.com)
