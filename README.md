@@ -21,6 +21,5 @@ I'm a dedicated student pursuing a Bachelor's degree in Engineering with a focus
 
 ## 🔗 Connect with Me
 - [Website](https://akshat-vyas.netlify.app/)
-- [LinkedIn](https://www.linkedin.com/in/akshat-vyas/)
-- [Twitter](https://twitter.com/akshat_vyas)
-- [Email](mailto:akshat.vyas@example.com)
+- [LinkedIn](https://www.linkedin.com/in/akshat-vyas-8b2225301/)
+- [Email](mailto:akshatvyas0340@gmail.com)
