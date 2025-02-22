@@ -3,11 +3,11 @@
 I'm a dedicated student pursuing a Bachelor's degree in Engineering with a focus on Artificial Intelligence and Data Science (B.E. AI&DS) in India. I'm passionate about leveraging data-driven techniques to solve real-world problems. My journey in the tech world has been fueled by curiosity and a constant drive to learn and improve. I specialize in Python programming, data analysis, and machine learning.
 
 ## 🌟 Skills
-- **Programming Languages:** Python, R
-- **Machine Learning:** scikit-learn, TensorFlow, Keras
+- **Programming Languages:** Python, 
+- **Machine Learning:** scikit-learn, TensorFlow,
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - **Deep Learning:** Neural Networks, CNN, RNN
-- **Tools:** Jupyter Notebook, Git, Docker, Visual Studio Code
+- **Tools:** Jupyter Notebook, Git, Visual Studio Code
 
 ## 🚀 Projects
 - **[Sentiment Analysis](https://github.com/THE-AAV/Sentiment_Analysis):** A sentiment analysis project using NLP techniques and Python.
