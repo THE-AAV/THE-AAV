@@ -3,7 +3,7 @@
 I'm a dedicated student pursuing a Bachelor's degree in Engineering with a focus on Artificial Intelligence and Data Science (B.E. AI&DS) in India. I'm passionate about leveraging data-driven techniques to solve real-world problems. My journey in the tech world has been fueled by curiosity and a constant drive to learn and improve. I specialize in Python programming, data analysis, and machine learning.
 
 ## 🌟 Skills
-- **Programming Languages:** Python,Java,C 
+- **Programming Languages:** Python, Java, C 
 - **Machine Learning:** scikit-learn, TensorFlow,
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 - **Deep Learning:** Neural Networks, CNN, RNN
