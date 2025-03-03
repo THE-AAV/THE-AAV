@@ -14,10 +14,9 @@ I'm a dedicated student pursuing a Bachelor's degree in Engineering with a focus
 - **[Virtual Mouse](https://github.com/THE-AAV/Virtual_Mouse):** A project that uses hand gestures and finger recognition to control a virtual mouse using Python and OpenCV
 
 
-## 📊 GitHub Stats
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=THE-AAV&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THE-AAV&layout=compact&theme=radical)
+## 🔭 Fun Fact
+ When I'm not coding, I love exploring the world of astronomy and stargazing. There's something incredibly 
+ fascinating about the mysteries of the universe!
 
 ## 🔗 Connect with Me
 - [Website](https://akshat-vyas.netlify.app/)
