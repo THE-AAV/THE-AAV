@@ -12,7 +12,7 @@ I'm a dedicated student pursuing a Bachelor's degree in Engineering with a focus
 ## 🚀 Projects
 - **[Sentiment Analysis](https://github.com/THE-AAV/Sentiment_Analysis):** A sentiment analysis project using NLP techniques and Python.
 - **[Virtual Mouse](https://github.com/THE-AAV/Virtual_Mouse):** A project that uses hand gestures and finger recognition to control a virtual mouse using Python and OpenCV
-
+- **[AI-financial-advisor](https://github.com/THE-AAV/AI-financial-advisor):** AI Financial Advisor built in just 2 hours during a hackathon. Designed to provide basic financial advice based on user inputs.
 
 ## 🔭 Fun Fact
  When I'm not coding, I love exploring the world of astronomy and stargazing. There's something incredibly 
