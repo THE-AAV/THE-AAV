@@ -15,8 +15,7 @@ I'm a dedicated student pursuing a Bachelor's degree in Engineering with a focus
 - **[AI-financial-advisor](https://github.com/THE-AAV/AI-financial-advisor):** AI Financial Advisor built in just 2 hours during a hackathon. Designed to provide basic financial advice based on user inputs.
 
 ## 🔭 Fun Fact
- When I'm not coding, I love exploring the world of astronomy and stargazing. There's something incredibly 
- fascinating about the mysteries of the universe!
+🏎️ When I'm not coding, I'm deep in the world of Formula 1—where precision, performance, and strategy collide at 300 km/h. There's something thrilling about watching data, teamwork, and milliseconds define history.
 
 ## 🔗 Connect with Me
 - [Website](https://akshat-vyas.netlify.app/)
